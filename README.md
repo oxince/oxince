@@ -23,10 +23,10 @@
 
 ### Get in touch:
 
-<img align="left" alt="Leon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />leon5505
+<img align="left" alt="oxince | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />oxincelikesyou
 <br />
 <br />
-<img align="left" alt="Leon | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />leon.#5505
+<img align="left" alt="oxince | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />oxince#9999
 
 <br />
 
@@ -38,6 +38,6 @@
 <!-- Tools -->
 [intellij]: https://www.jetbrains.com/idea/
 [git]: https://git-scm.com/
-[github]: https://www.github.com/leon5505
+[github]: https://www.github.com/oxince
 [java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [vsc]: https://code.visualstudio.com
