@@ -32,12 +32,11 @@
 
 ---
 
-<img align="left" alt="Leon's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxince&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Leon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oxince&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="oxince's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxince&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="oxince's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oxince&show_icons=true&hide_border=true&theme=radical" />
 
 <!-- Tools -->
 [intellij]: https://www.jetbrains.com/idea/
-[git]: https://git-scm.com/
 [github]: https://www.github.com/oxince
 [java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [vsc]: https://code.visualstudio.com
