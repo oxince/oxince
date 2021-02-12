@@ -2,12 +2,10 @@
 **leon5505/leon5505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there, i'm Leon 👋
+### Hi there, i'm oxince 👋
 
-- 🔭 I’m currently working on my personal API
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working for volverix.net & ehrenmannrius.de
 - 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I can break sources.list very fast
 
 ---
 
@@ -34,8 +32,8 @@
 
 ---
 
-<img align="left" alt="Leon's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon5505&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Leon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leon5505&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Leon's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxince&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="Leon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oxince&show_icons=true&hide_border=true&theme=radical" />
 
 <!-- Tools -->
 [intellij]: https://www.jetbrains.com/idea/
