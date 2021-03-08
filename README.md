@@ -4,10 +4,6 @@
 
 ### Hi there, i'm oxince 👋
 
-- 🔭 I’m currently working for volverix.net
-
----
-
 ### You want more Informations about me?
 * Visit my <a href="https://oxince.xyz/">website</a>!
 
