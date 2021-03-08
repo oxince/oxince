@@ -5,7 +5,7 @@
 ### Hi there, i'm oxince 👋
 
 ### You want more Informations about me?
-* Visit my <a href="https://github.oxince.xyz/">website</a>!
+* Visit my <a href="https://oxince.github.io/">website</a>!
 
 ---
 
