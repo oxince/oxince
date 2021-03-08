@@ -4,8 +4,7 @@
 
 ### Hi there, i'm oxince 👋
 
-- 🔭 I’m currently working for volverix.net & ehrenmannrius.de
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I’m currently working for volverix.net
 
 ---
 
