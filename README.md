@@ -59,6 +59,7 @@ DevOps and Tools I use:
 
 Let's connect and discuss exciting projects! 🚀
 
+Telegram & Discord: bostondebreli
 Email: hi@oxince.com
 
 </div>
