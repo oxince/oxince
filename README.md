@@ -6,15 +6,10 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
 
 ## 🔧 Technologies & Frameworks
 
-Languages I enjoy working with:
-
 <img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" alt="TypeScript">
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp" alt="C#">
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
-
-Frameworks and Tools:
-
 <img src="https://img.shields.io/badge/discord.js-black?style=for-the-badge&logo=discord" alt="discord.js">
 <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express" alt="express.js">
 <img src="https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongoose" alt="mongoose">
@@ -33,8 +28,6 @@ Frameworks and Tools:
 
 ## ⚙️ DevOps & Tools
 
-DevOps and Tools I use:
-
 <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea" alt="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
@@ -43,8 +36,6 @@ DevOps and Tools I use:
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows" alt="Windows">
 
 ## 🌐 Connect with Me
-
-Let's connect and discuss exciting projects! 🚀
 
 Telegram & Discord: bostondebreli
 
