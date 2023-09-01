@@ -28,11 +28,6 @@ Frameworks and Tools:
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-black?style=for-the-badge&logo=apollo-graphql" alt="Apollo GraphQL">
 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
-
-## 🗄️ Databases
-
-Databases I'm familiar with:
-
 <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb" alt="mongodb">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
 
@@ -46,14 +41,6 @@ DevOps and Tools I use:
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows" alt="Windows">
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=oxince&hide_border=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=oxince&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxince&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-</p>
 
 ## 🌐 Connect with Me
 
