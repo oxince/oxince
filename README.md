@@ -1,74 +1,25 @@
-<div align="left">
+### Hi, I'm oxince 👋
 
-# Hey there, I'm oxince! 👋
+**FiveM developer & full-stack engineer based in Frankfurt, Germany.**
+I build custom FiveM scripts (ESX, QBCore, Qbox), server optimization for 1000+ player servers, dashboards, Tebex stores and websites — as the developer who writes the code, not a reseller.
 
-Passionate about **Quality**, **Security**, and **Performance** in software development.
+🔗 **Portfolio & hire me → [oxince.com](https://oxince.com)**
 
----
+#### What I do
+- Custom FiveM scripts — ESX · QBCore · Qbox · standalone
+- FiveM server optimization (resmon profiling, 1000+ players)
+- Dashboards, UCP & admin panels
+- Tebex store setup + store SEO
+- Websites & web apps (Next.js / TypeScript)
+- Lua obfuscation & server security
 
-## 🔧 Technologies & Frameworks
+#### Open source
+- [**fivem-json-db**](https://github.com/oxince/fivem-json-db) — lightweight Lua JSON database for FiveM
+- [**fivem-pkg**](https://github.com/oxince/fivem-pkg) — CLI to download FiveM server artifacts
 
-### 💻 **Frontend**
+#### Reach me
+- 🌐 [oxince.com](https://oxince.com)
+- ✉️ hi@oxince.com
+- 💬 Discord: oxince
 
-<div>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</div>
-
-### 🧑‍💻 **Backend**
-
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-</div>
-
-### 🗄️ **Databases**
-
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-</div>
-
-### 🔧 **DevOps & Tools**
-
-<div>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
-</div>
-
----
-
-## 🧑‍💻 Contribution
-
-<a href="https://github.com/oxince/oxince">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxince&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&hide_border=true" alt="GitHub Stats">
-</a>
-<a href="https://github.com/oxince/oxince">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxince&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</a>
-
----
-
-## 🚀 Activity & Streaks
-
-<a href="https://github.com/oxince">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxince&theme=radical&hide_border=true" alt="Streak Stats">
-</a>
-
----
-
-## 🌐 Connect with Me
-
-- **Discord**: oxince
-- **GitHub**: [@oxince](https://github.com/oxince)
+<sub>FiveM developer · custom scripts · server optimization · ESX / QBCore / Qbox · Frankfurt</sub>
