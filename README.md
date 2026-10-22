@@ -1,4 +1,4 @@
-<a href="https://oxince.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/hero.svg"><img src="assets/dark/hero.svg" width="100%" alt="oxince. Leon Viehmann, software engineer in Frankfurt."></picture></a>
+<a href="https://oxince.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.webp"><source media="(prefers-color-scheme: light)" srcset="assets/light/hero.webp"><img src="assets/dark/hero.webp" width="100%" alt="OXINCE in 3D chrome. Leon Viehmann, Frankfurt."></picture></a>
 
 <br>
 
